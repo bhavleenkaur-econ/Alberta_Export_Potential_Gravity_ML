@@ -1,0 +1,11 @@
+importer,pred_value_usd,pred_value_usd_raw,rank,country_name,share_of_predicted_potential,calibration_scale,scoring_model
+USA,4.130493e+10,2.4790645e+11,1,United States of America,0.31350225,0.1666149798927169,M3_demand_and_capability
+JPN,6.479034e+09,3.888626e+10,2,Japan,0.049175527,0.1666149798927169,M3_demand_and_capability
+THA,4.949642e+09,2.9707065e+10,3,Thailand,0.037567526,0.1666149798927169,M3_demand_and_capability
+SGP,4.4157645e+09,2.6502806e+10,4,Singapore,0.03351542,0.1666149798927169,M3_demand_and_capability
+BGD,4.2874012e+09,2.5732387e+10,5,Bangladesh,0.032541152,0.1666149798927169,M3_demand_and_capability
+PHL,4.2812961e+09,2.5695744e+10,6,Philippines,0.032494813,0.1666149798927169,M3_demand_and_capability
+VNM,4.224691e+09,2.535601e+10,7,Viet Nam,0.032065183,0.1666149798927169,M3_demand_and_capability
+ARE,3.992311e+09,2.3961297e+10,8,United Arab Emirates,0.030301431,0.1666149798927169,M3_demand_and_capability
+HKG,3.8892063e+09,2.3342477e+10,9,Hong Kong,0.029518872,0.1666149798927169,M3_demand_and_capability
+CHN,3.8068508e+09,2.284819e+10,10,China,0.028893799,0.1666149798927169,M3_demand_and_capability

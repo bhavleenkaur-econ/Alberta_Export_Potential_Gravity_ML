@@ -1,0 +1,51 @@
+destination_rank,country_code,destination,destination_domestic_export_value_cad,destination_share_of_alberta,product_rank,hs4_code,product_name,domestic_export_value_cad,share_of_destination
+1,US,United States of America,152042164486,0.8543392558201227,1,2709,Petroleum oils and oils obtained from bituminous minerals; crude,110821617128,0.7288873945109117
+1,US,United States of America,152042164486,0.8543392558201227,2,2711,Petroleum gases and other gaseous hydrocarbons,11573399330,0.07611966962668225
+1,US,United States of America,152042164486,0.8543392558201227,3,0201,Meat of bovine animals; fresh or chilled,2845291330,0.018713830729909096
+1,US,United States of America,152042164486,0.8543392558201227,4,3901,"Polymers of ethylene, in primary forms",2633249849,0.01731920785199338
+1,US,United States of America,152042164486,0.8543392558201227,5,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",2129225218,0.014004175915267626
+2,CN,China,10192667946,0.05727356208881838,1,2709,Petroleum oils and oils obtained from bituminous minerals; crude,6319506727,0.6200051606194059
+2,CN,China,10192667946,0.05727356208881838,2,2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",611199704,0.059964643922287154
+2,CN,China,10192667946,0.05727356208881838,3,3901,"Polymers of ethylene, in primary forms",588629882,0.05775032455864525
+2,CN,China,10192667946,0.05727356208881838,4,4703,"Chemical wood pulp, soda or sulphate, other than dissolving grades",437252541,0.04289873302225988
+2,CN,China,10192667946,0.05727356208881838,5,1205,Rape or colza seeds; whether or not broken,431047398,0.04228994805713845
+3,JP,Japan,2387586321,0.013416072624230956,1,1205,Rape or colza seeds; whether or not broken,364110921,0.1525016782838236
+3,JP,Japan,2387586321,0.013416072624230956,2,0203,"Meat of swine; fresh, chilled or frozen",362000224,0.15161764867558059
+3,JP,Japan,2387586321,0.013416072624230956,3,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",345360432,0.14464835426572206
+3,JP,Japan,2387586321,0.013416072624230956,4,1001,Wheat and meslin,230736623,0.09664011766634678
+3,JP,Japan,2387586321,0.013416072624230956,5,0206,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies; fresh, chilled or frozen",134731524,0.05643001168794182
+4,HK,Hong Kong,1410425757,0.00792531529459953,1,2709,Petroleum oils and oils obtained from bituminous minerals; crude,1215445736,0.8617580400582545
+4,HK,Hong Kong,1410425757,0.00792531529459953,2,3901,"Polymers of ethylene, in primary forms",32948764,0.023360863793414118
+4,HK,Hong Kong,1410425757,0.00792531529459953,3,8517,"Telephone sets, including smartphones and other telephones for cellular/wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",28888635,0.020482208905094463
+4,HK,Hong Kong,1410425757,0.00792531529459953,4,7602,Aluminium; waste and scrap,25766303,0.01826845750095019
+4,HK,Hong Kong,1410425757,0.00792531529459953,5,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",22700000,0.016094430981098425
+5,KR,"Korea, South",1393357614,0.007829407790005998,1,2709,Petroleum oils and oils obtained from bituminous minerals; crude,399927045,0.28702397789459383
+5,KR,"Korea, South",1393357614,0.007829407790005998,2,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",179579657,0.12888267534166573
+5,KR,"Korea, South",1393357614,0.007829407790005998,3,7502,Nickel; unwrought,125241838,0.089884920239866
+5,KR,"Korea, South",1393357614,0.007829407790005998,4,0203,"Meat of swine; fresh, chilled or frozen",123515928,0.08864625043775733
+5,KR,"Korea, South",1393357614,0.007829407790005998,5,0202,Meat of bovine animals; frozen,91377300,0.06558065142923172
+6,SG,Singapore,1202411608,0.006756464181110679,1,2709,Petroleum oils and oils obtained from bituminous minerals; crude,1088166780,0.9049869219160099
+6,SG,Singapore,1202411608,0.006756464181110679,2,3901,"Polymers of ethylene, in primary forms",42054007,0.034974718075077
+6,SG,Singapore,1202411608,0.006756464181110679,3,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,17182329,0.014289889490155354
+6,SG,Singapore,1202411608,0.006756464181110679,4,7502,Nickel; unwrought,12803972,0.010648576506423747
+6,SG,Singapore,1202411608,0.006756464181110679,5,8412,"Engines and motors; n.e.c. (e.g. reaction engines, hydraulic power engines, pneumatic power engines)",4986717,0.004147262856431106
+7,MX,Mexico,992364685,0.005576190718878757,1,0201,Meat of bovine animals; fresh or chilled,231853363,0.2336372570533382
+7,MX,Mexico,992364685,0.005576190718878757,2,1205,Rape or colza seeds; whether or not broken,206313851,0.20790124247518946
+7,MX,Mexico,992364685,0.005576190718878757,3,1001,Wheat and meslin,79099200,0.07970779411603104
+7,MX,Mexico,992364685,0.005576190718878757,4,0206,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies; fresh, chilled or frozen",67107907,0.0676242393692194
+7,MX,Mexico,992364685,0.005576190718878757,5,0203,"Meat of swine; fresh, chilled or frozen",62532050,0.06301317544366263
+8,NL,Netherlands,541296030,0.003041593422534899,1,7502,Nickel; unwrought,237632734,0.43900697738352157
+8,NL,Netherlands,541296030,0.003041593422534899,2,2309,Preparations of a kind used in animal feeding,117699809,0.21744073940464703
+8,NL,Netherlands,541296030,0.003041593422534899,3,1205,Rape or colza seeds; whether or not broken,54012966,0.09978452271301529
+8,NL,Netherlands,541296030,0.003041593422534899,4,8105,"Cobalt; mattes and other intermediate products of cobalt metallurgy, cobalt and articles thereof, including waste and scrap",39899692,0.07371140704652868
+8,NL,Netherlands,541296030,0.003041593422534899,5,0201,Meat of bovine animals; fresh or chilled,14837969,0.027411930214969432
+9,PE,Peru,506792177,0.002847713019722946,1,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",286256811,0.5648406269696622
+9,PE,Peru,506792177,0.002847713019722946,2,1001,Wheat and meslin,172856620,0.3410798900315306
+9,PE,Peru,506792177,0.002847713019722946,3,1514,"Rape, colza or mustard oil and their fractions; whether or not refined, but not chemically modified",17654394,0.03483556929490646
+9,PE,Peru,506792177,0.002847713019722946,4,8705,"Special purpose motor vehicles; not those for the transport of persons or goods (e.g. breakdown lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units etc)",5233384,0.010326489313587017
+9,PE,Peru,506792177,0.002847713019722946,5,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,4547983,0.008974059202969899
+10,ID,Indonesia,449228689,0.0025242583539295048,1,1001,Wheat and meslin,258215425,0.5747972721305874
+10,ID,Indonesia,449228689,0.0025242583539295048,2,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",98721609,0.2197580239582606
+10,ID,Indonesia,449228689,0.0025242583539295048,3,2301,"Flours, meal and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves",38511659,0.08572840502624265
+10,ID,Indonesia,449228689,0.0025242583539295048,4,3901,"Polymers of ethylene, in primary forms",13344168,0.02970462111336794
+10,ID,Indonesia,449228689,0.0025242583539295048,5,4705,Wood pulp obtained by a combination of mechanical and chemical pulping processes,7801859,0.017367232305147813

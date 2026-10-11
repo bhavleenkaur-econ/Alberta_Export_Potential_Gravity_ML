@@ -1,0 +1,51 @@
+country_name,importer,rank_in_destination,hs4,hs4_name,pred_value_usd
+United States of America,USA,1,1001,Wheat and meslin,5.277536e+09
+United States of America,USA,2,2711,Petroleum gases and other gaseous hydrocarbons,5.2437125e+09
+United States of America,USA,3,2709,Petroleum oils and oils obtained from bituminous minerals; crude,4.6757806e+09
+United States of America,USA,4,0201,Meat of bovine animals; fresh or chilled,4.4336916e+09
+United States of America,USA,5,3901,"Polymers of ethylene, in primary forms",4.2713528e+09
+Japan,JPN,1,0102,Bovine animals; live,2.9833695e+09
+Japan,JPN,2,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",1.4052769e+09
+Japan,JPN,3,1514,"Rape, colza or mustard oil and their fractions; whether or not refined, but not chemically modified",3.9587034e+08
+Japan,JPN,4,2711,Petroleum gases and other gaseous hydrocarbons,2.496299e+08
+Japan,JPN,5,1205,Rape or colza seeds; whether or not broken,2.3826803e+08
+Thailand,THA,1,0102,Bovine animals; live,1.1786899e+09
+Thailand,THA,2,1001,Wheat and meslin,9.6977094e+08
+Thailand,THA,3,0201,Meat of bovine animals; fresh or chilled,6.080524e+08
+Thailand,THA,4,1205,Rape or colza seeds; whether or not broken,5.1562038e+08
+Thailand,THA,5,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",4.2681824e+08
+Singapore,SGP,1,0102,Bovine animals; live,1.04160966e+09
+Singapore,SGP,2,1001,Wheat and meslin,8.666351e+08
+Singapore,SGP,3,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",5.3790995e+08
+Singapore,SGP,4,0201,Meat of bovine animals; fresh or chilled,4.7672902e+08
+Singapore,SGP,5,1205,Rape or colza seeds; whether or not broken,3.766098e+08
+Bangladesh,BGD,1,0102,Bovine animals; live,7.864882e+08
+Bangladesh,BGD,2,1001,Wheat and meslin,7.037446e+08
+Bangladesh,BGD,3,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",5.641798e+08
+Bangladesh,BGD,4,0201,Meat of bovine animals; fresh or chilled,4.5923075e+08
+Bangladesh,BGD,5,2814,Ammonia; anhydrous or in aqueous solution,3.426508e+08
+Philippines,PHL,1,0102,Bovine animals; live,7.9814106e+08
+Philippines,PHL,2,1001,Wheat and meslin,7.141715e+08
+Philippines,PHL,3,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",5.540215e+08
+Philippines,PHL,4,0201,Meat of bovine animals; fresh or chilled,4.6603485e+08
+Philippines,PHL,5,2814,Ammonia; anhydrous or in aqueous solution,3.4985712e+08
+Viet Nam,VNM,1,0102,Bovine animals; live,8.000172e+08
+Viet Nam,VNM,2,1001,Wheat and meslin,7.158503e+08
+Viet Nam,VNM,3,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",5.2338474e+08
+Viet Nam,VNM,4,0201,Meat of bovine animals; fresh or chilled,4.6713034e+08
+Viet Nam,VNM,5,1205,Rape or colza seeds; whether or not broken,3.4733453e+08
+United Arab Emirates,ARE,1,0102,Bovine animals; live,9.054202e+08
+United Arab Emirates,ARE,2,1001,Wheat and meslin,6.0998074e+08
+United Arab Emirates,ARE,3,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",5.1119814e+08
+United Arab Emirates,ARE,4,0201,Meat of bovine animals; fresh or chilled,4.2813587e+08
+United Arab Emirates,ARE,5,1205,Rape or colza seeds; whether or not broken,3.4619562e+08
+Hong Kong,HKG,1,0102,Bovine animals; live,9.392442e+08
+Hong Kong,HKG,2,1001,Wheat and meslin,8.235584e+08
+Hong Kong,HKG,3,0201,Meat of bovine animals; fresh or chilled,4.899482e+08
+Hong Kong,HKG,4,1205,Rape or colza seeds; whether or not broken,3.3937786e+08
+Hong Kong,HKG,5,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",2.5126506e+08
+China,CHN,1,0102,Bovine animals; live,1.134991e+09
+China,CHN,2,1514,"Rape, colza or mustard oil and their fractions; whether or not refined, but not chemically modified",3.1189072e+08
+China,CHN,3,2709,Petroleum oils and oils obtained from bituminous minerals; crude,3.0047318e+08
+China,CHN,4,1205,Rape or colza seeds; whether or not broken,1.9367066e+08
+China,CHN,5,2503,"Sulphur of all kinds; other than sublimed, precipitated and colloidal sulphur",1.6448782e+08

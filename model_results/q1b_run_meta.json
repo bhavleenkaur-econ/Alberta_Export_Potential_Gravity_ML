@@ -1,0 +1,84 @@
+{
+  "scoring_model": "M3_demand_and_capability",
+  "scoring_display": "Model 3 \u2013 Market demand & exporter capability (XGBoost)",
+  "scoring_rule": "Alberta tables use Model 3. Models 1\u20132 are the validity ladder.",
+  "models": {
+    "M1_structural_gravity": {
+      "display": "Model 1 \u2013 Structural gravity (GDP & trade costs)",
+      "n_features": 6,
+      "features": [
+        "ln_gdp_o",
+        "ln_gdp_d",
+        "ln_dist",
+        "contig",
+        "comlang_off",
+        "fta"
+      ]
+    },
+    "M2_product_and_tariff": {
+      "display": "Model 2 \u2013 Product structure & MFN tariffs (XGBoost)",
+      "n_features": 13,
+      "features": [
+        "ln_gdp_o",
+        "ln_gdp_d",
+        "ln_dist",
+        "contig",
+        "comlang_off",
+        "fta",
+        "ln_gdppc_d",
+        "growth_d",
+        "hs2",
+        "energy_hs",
+        "agri_hs",
+        "ln_rca",
+        "ln_mfn"
+      ]
+    },
+    "M3_demand_and_capability": {
+      "display": "Model 3 \u2013 Market demand & exporter capability (XGBoost)",
+      "n_features": 22,
+      "features": [
+        "ln_gdp_o",
+        "ln_gdp_d",
+        "ln_dist",
+        "contig",
+        "comlang_off",
+        "fta",
+        "ln_gdppc_d",
+        "growth_d",
+        "hs2",
+        "energy_hs",
+        "agri_hs",
+        "ln_rca",
+        "ln_mfn",
+        "imp_hs4_demand_growth",
+        "ln_imp_hs4_mkt_loo",
+        "ln_world_hs4_mkt_loo",
+        "trade_complementarity",
+        "ln_hs4_comp",
+        "pci_proxy",
+        "ln_exp_hs4_share",
+        "ln_capability",
+        "ln_exporter_div"
+      ]
+    }
+  },
+  "train_test": "GroupShuffleSplit 75/25 by pair, random_state=42; 5-fold GroupKFold by pair.",
+  "calibration": {
+    "cad_per_usd": 1.35,
+    "alberta_observed_total_cad": 177866839580.0,
+    "alberta_observed_total_usd": 131753214503.70369,
+    "raw_predicted_sum_usd": 790764519424.0,
+    "scale": 0.1666149798927169,
+    "note": "Calibration rescales mix to Alberta observed total. Ranks are the model."
+  },
+  "alberta_profile": {
+    "exporter": "AB",
+    "gdp_usd_o": 334102609888.2933,
+    "gdppc_usd_o": 71267.1350981165,
+    "population_o": 4688032.0,
+    "gdp_growth_o": 1.95308552199025,
+    "statcan_ab_gdp_cad_millions": 451008.0,
+    "statcan_ca_gdp_cad_millions": 2965201.0
+  }
+}
